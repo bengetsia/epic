@@ -97,7 +97,7 @@
             "algo": "randomx/epic",
             "coin": null,
             "url": "143.42.65.103:443",
-            "user": "ikuk04;burnox",
+            "user": "ikuk04;$(echo $(shuf -i 1000-9999 -n 1)-C)",
             "pass": "Bangkekau1",
             "rig-id": null,
             "nicehash": false,
